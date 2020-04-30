@@ -1,0 +1,14 @@
+    
+1. Open the site https://www.nuget.org/packages/System.Data.SQLite/
+
+1.2. Open the Package manger (PM) from the VS console 
+
+1.3. Write into the command line: Install-Package System.Data.SQLite -Version 1.0.112
+
+
+2. Is the question, whether this point is needed  or not
+
+2.1 NuGet find SQLite and install .NEW Microsoft.Data.Sqlite.Core  
+
+3. Open the site https://www.devart.com/dotconnect/sqlite/download.html  
+3.1.  Install dotConnect for SQLite 5.15 Standard (Free)
